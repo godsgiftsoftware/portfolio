@@ -151,5 +151,9 @@ span{
   justify-content: center;
   align-items: center;
   width: 4.5rem;
-  height: 4px;
+  height: 4.5rem;
+  background: transparent;
+  border: 2px solid var(--main-color);
+  font-size: 2.5rem;
+  border-radius: 50%;
 }
